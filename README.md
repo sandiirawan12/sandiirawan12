@@ -49,7 +49,7 @@ I Work As A Fullstack Developer, And UI UX Design
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandiirawan12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![]([https://github-readme-stats.vercel.app/api?username=sandiirawan12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=sandiirawan12&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandiirawan12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandiirawan12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
