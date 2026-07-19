@@ -76,13 +76,13 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 | Project | Category | Technologies |
 |----------|----------|--------------|
-| **MasterDiskon** | Online Travel Booking Platform | Laravel, Vue.js, MySQL, Redis, REST API |
-| **Jaja.id** | E-Commerce Marketplace | Laravel, Vue.js, MySQL |
-| **Auto Jaja** | Automotive Marketplace | Laravel, Vue.js, MySQL |
-| **Eureka Bookhouse** | Online Book Store | Laravel, Bootstrap, MySQL |
-| **Eureka Logistics** | Logistics Platform | Laravel, Vue.js, REST API |
-| **RajaCepat** | Delivery & Shipping Platform | Laravel, MySQL |
-| **KitaOlah** | Digital Platform | Laravel, Bootstrap, MySQL |
+| **MasterDiskon** | Online Travel Booking Platform | Next.js, React.js, Express.js, PostgreSQL, REST API |
+| **Jaja.id** | E-Commerce Marketplace | Next.js, React.js, Express.js, PostgreSQL |
+| **Auto Jaja** | Automotive Marketplace | Next.js, React.js, Express.js, PostgreSQL |
+| **Eureka Bookhouse** | Online Book Store | Next.js, React.js, Express.js, PostgreSQL |
+| **Eureka Logistics** | Logistics Platform | Next.js, React.js, Express.js, PostgreSQL, REST API |
+| **RajaCepat** | Delivery & Shipping Platform | Next.js, React.js, Express.js, PostgreSQL |
+| **KitaOlah** | Digital Platform | Next.js, React.js, Express.js, PostgreSQL |
 
 ---
 
