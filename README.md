@@ -142,14 +142,6 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandiirawan12&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandiirawan12&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img width="49%" src="https://streak-stats.demolab.com?user=sandiirawan12&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight&utcOffset=7"/>
@@ -182,6 +174,14 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight"/>
 
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandiirawan12/sandiirawan12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
