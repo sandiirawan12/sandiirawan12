@@ -142,9 +142,9 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandiirawan12&theme=tokyonight&show_icons=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandiirawan12&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiirawan12&theme=tokyonight&layout=compact&cache_seconds=86400"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandiirawan12&theme=tokyonight"/>
 
 </p>
 
