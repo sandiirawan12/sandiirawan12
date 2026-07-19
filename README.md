@@ -1,124 +1,242 @@
-<h1 align="center">Hi 👋, I'm Sandi Irawan</h1>
+<div align="center">
 
-<h3 align="center">
-Fullstack Developer • Backend Engineer • UI/UX Designer
-</h3>
+# Hi 👋, I'm Sandi Irawan
 
-<p align="center">
-Building scalable web applications, APIs, and digital products with modern technologies.
+### Frontend Developer • Fullstack Developer • Backend Engineer • UI/UX Designer
+
+Building scalable web applications, high-performance APIs, and modern digital products with modern technologies.
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=sandiirawan12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sandiirawan12?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/sandiirawan12?affiliations=OWNER&style=for-the-badge&label=Stars"/>
+
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sandiirawan12&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+
+<a href="https://github.com/sandiirawan12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandi-irawan12/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/_s4ndi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/_s4ndi">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
 </p>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **Fullstack Developer** from Indonesia with experience building production-ready applications across multiple industries including:
+I'm a passionate **Frontend, Fullstack, and Backend Developer** from Indonesia with **3.5+ years of professional experience** delivering production-ready web applications and digital products.
 
-- ✈️ Travel Booking Platform
-- 🛒 E-Commerce
-- 🚚 Logistics System
-- 📚 Digital Publishing
-- 📊 Internal Dashboard
-- ⚡ REST API & Backend Services
+Throughout my career, I've contributed to systems across multiple industries, including **travel booking, e-commerce, logistics, digital publishing, ERP, CMS, and internal business platforms**. My expertise covers the complete software development lifecycle—from planning and UI/UX design to frontend development, backend engineering, API integration, database optimization, deployment, and cloud infrastructure.
 
-I enjoy designing scalable architectures, writing clean code, and creating intuitive user experiences.
+I enjoy building scalable architectures, writing clean and maintainable code, and solving complex engineering challenges. I'm always learning modern technologies and software architecture patterns to create applications that are fast, secure, reliable, and easy to maintain.
+
+### 🚀 What I Do
+
+- 💻 Frontend Development
+- ⚙️ Backend Development
+- 🔥 Fullstack Engineering
+- 🎨 UI/UX Design
+- ☁️ Cloud Deployment
+- 🔐 Authentication & Authorization
+- 🚀 Performance Optimization
+- 📦 RESTful API Development
+- 🏗 Software Architecture
+- 🔄 Third-party API Integration
 
 ---
 
-# 💼 Featured Projects
+# 💼 Professional Experience
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **MasterDiskon** | Online travel booking platform | Laravel, Vue |
-| **Jaja.id** | E-Commerce Marketplace | Laravel, Vue |
-| **Auto Jaja** | Automotive Marketplace | Laravel |
-| **Eureka Bookhouse** | Online Book Store | Laravel |
-| **Eureka Logistics** | Logistics Platform | Laravel |
-| **RajaCepat** | Delivery & Shipping System | Laravel |
-| **KitaOlah** | Digital Platform | Laravel |
+- **3.5+ Years** of Professional Software Development
+- Developed production-ready applications serving thousands of users
+- Built booking systems, marketplaces, logistics platforms, CMS, ERP, dashboards, and REST APIs
+- Experienced in agile development, cross-functional collaboration, and production deployment
+
+---
+
+# 🌍 Featured Projects
+
+| Project | Category | Technologies |
+|----------|----------|--------------|
+| **MasterDiskon** | Online Travel Booking Platform | Laravel, Vue.js, MySQL, Redis, REST API |
+| **Jaja.id** | E-Commerce Marketplace | Laravel, Vue.js, MySQL |
+| **Auto Jaja** | Automotive Marketplace | Laravel, Vue.js, MySQL |
+| **Eureka Bookhouse** | Online Book Store | Laravel, Bootstrap, MySQL |
+| **Eureka Logistics** | Logistics Platform | Laravel, Vue.js, REST API |
+| **RajaCepat** | Delivery & Shipping Platform | Laravel, MySQL |
+| **KitaOlah** | Digital Platform | Laravel, Bootstrap, MySQL |
+
+---
+
+# 💼 Core Expertise
+
+- Frontend Architecture
+- Backend API Development
+- Fullstack Web Development
+- RESTful API
+- Authentication & Security
+- Database Design
+- Cloud Deployment
+- Payment Gateway Integration
+- Third-party API Integration
+- CMS Development
+- Dashboard Development
+- Performance Optimization
+- Software Architecture
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,js,tailwind,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap"/>
 </p>
 
-## Backend
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,nestjs,express,python,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,java,spring,php,laravel,python"/>
 </p>
 
-## Database
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
 </p>
 
-## Cloud & DevOps
+## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,nginx,linux"/>
 </p>
 
-## Tools
+## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandiirawan12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandiirawan12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiirawan12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandiirawan12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandiirawan12&theme=tokyo-night"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sandiirawan12&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight&utcOffset=7"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sandiirawan12&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandiirawan12&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandiirawan12&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandiirawan12&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandiirawan12&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandiirawan12&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 🏆 GitHub Achievements
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/sandi-irawan12/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=sandiirawan12&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Go for High Performance Backend
+- Spring Boot Enterprise Development
+- Distributed Systems
+- Microservices Architecture
+- Kubernetes
+- Cloud Native Applications
+- System Design
+- Software Architecture
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/sandiirawan12">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandi-irawan12/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://instagram.com/_s4ndi">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+<a href="https://x.com/_s4ndi">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
 </p>
 
 ---
 
-> **Currently exploring:** Go • Distributed Systems • Microservices • Cloud Native Architecture
+<div align="center">
+
+### 💡 "Great software is built with clean architecture, continuous learning, and attention to detail."
+
+⭐ If you like my work, feel free to follow me or check out my repositories!
+
+</div>
