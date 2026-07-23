@@ -8,14 +8,12 @@ Building scalable web applications, high-performance APIs, and modern digital pr
 
 <p>
 
-<!-- Followers -->
+
 <img src="https://komarev.com/ghpvc/?username=sandiirawan12&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<!-- Stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=sandiirawan12&show_icons=true&hide=stars,issues,prs,contribs&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" height="170"/>
+<img src="https://img.shields.io/badge/GitHub-sandiirawan12-181717?style=for-the-badge&logo=github"/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=sandiirawan12&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
 
 </p>
 
