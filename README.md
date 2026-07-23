@@ -218,10 +218,6 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://x.com/_s4ndi">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
 </p>
 
 ---
