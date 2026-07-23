@@ -32,7 +32,7 @@ Building scalable web applications, high-performance APIs, and modern digital pr
 </a>
 
 <a href="https://x.com/_s4ndi">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
 </a>
 
 </p>
