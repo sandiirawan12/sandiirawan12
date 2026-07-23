@@ -19,20 +19,12 @@ Building scalable web applications, high-performance APIs, and modern digital pr
 
 <p>
 
-<a href="https://github.com/sandiirawan12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sandi-irawan12/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://instagram.com/_s4ndi">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://x.com/_s4ndi">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/>
 </a>
 
 </p>
