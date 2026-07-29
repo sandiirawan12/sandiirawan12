@@ -183,16 +183,6 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandiirawan12&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - Go for High Performance Backend
