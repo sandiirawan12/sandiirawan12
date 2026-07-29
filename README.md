@@ -133,46 +133,31 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 # 📊 GitHub Analytics
 
-<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/stats.svg">
-
-<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/languages.svg">
-
-<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/activity.svg">
-
 <p align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=sandiirawan12&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight&utcOffset=7"/>
-
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/dashboard.svg" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandiirawan12&theme=tokyonight"/>
-
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/streak.svg" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandiirawan12&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/activity.svg" />
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandiirawan12&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandiirawan12&theme=tokyonight"/>
-
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/languages.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/productive-time.svg" />
 </p>
 
 <p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/repositories.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/contributions.svg" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandiirawan12&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandiirawan12&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/achievements.svg" />
 </p>
 
 ---
