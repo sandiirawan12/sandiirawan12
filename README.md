@@ -133,6 +133,12 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 
 # 📊 GitHub Analytics
 
+<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/stats.svg">
+
+<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/languages.svg">
+
+<img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/activity.svg">
+
 <p align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=sandiirawan12&theme=tokyonight&hide_border=true"/>
