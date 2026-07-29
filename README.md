@@ -134,30 +134,30 @@ I enjoy building scalable architectures, writing clean and maintainable code, an
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/dashboard.svg" />
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/dashboard.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/streak.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/streak.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/activity.svg" />
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/activity.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/languages.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/productive-time.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/languages.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/productive-time.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/repositories.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/contributions.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/repositories.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/contributions.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/output/achievements.svg" />
+  <img src="https://raw.githubusercontent.com/sandiirawan12/github-analytics/main/output/achievements.svg" />
 </p>
 
 ---
